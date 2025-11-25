@@ -26,7 +26,7 @@ My initial expectation is that in countries where the healthcare sector becomes 
 
 # Data Integration & Exploratory Analysis (EDA)
 
-After merging the three datasets, the final combined dataset contains: 1675 observations, 7 key variables: country, year, health_expenditure, life_expectancy, life_satisfaction, gdp_per_capita, out_of_pocket_share
+After merging the four datasets, the final combined dataset contains: 1675 observations, 7 key variables: country, year, health_expenditure, life_expectancy, life_satisfaction, gdp_per_capita, out_of_pocket_share
 
 # Correlation Results
 Relationship	                                  Pearson r	                                           Interpretation
