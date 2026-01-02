@@ -86,3 +86,10 @@ This means that when healthcare becomes financially inaccessible, well-being dec
 
 This suggests that global health funds should be prioritized for low-spending countries, where each dollar has dramatically more impact.
 
+# Machine Learning Analysis 
+
+I implemented a Linear Regression model to specifically investigate the relationship between healthcare investment and longevity.Model Implementation:Target Variable: Life Expectancy 
+Feature: Current Health Expenditure per Capita.
+Methodology: The data was cleaned of null values and split into training (80%) and testing (20%) sets to validate the model's predictive performance.Key Results:Model Performance ($R^2$ Score): 0.4143.Mean Squared Error (MSE): 45.18.
+Findings: The model confirms a clear positive correlation. As healthcare expenditure per capita increases, there is a statistically significant upward trend in life expectancy.
+Visualization: The regression plot shows that while spending is a strong driver for longer life, the gains tend to stabilize at extremely high spending levels, suggesting a point of diminishing returns.
